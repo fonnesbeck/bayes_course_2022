@@ -2,7 +2,7 @@
 
 Material for course on Bayesian Computation
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fonnesbeck/bayes_course_2022/master) 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fonnesbeck/bayes_course_2022/main) 
 
 ## Setup
 
@@ -12,7 +12,7 @@ The next step is to clone or download the tutorial materials in this repository.
 
     git clone https://github.com/fonnesbeck/bayes_course_2022.git
 
-otherwise you can [download a zip file](https://github.com/fonnesbeck/bayes_course_2022/archive/master.zip) of its contents, and unzip it on your computer.
+otherwise you can [download a zip file](https://github.com/fonnesbeck/bayes_course_2022/archive/main.zip) of its contents, and unzip it on your computer.
 ***
 The repository for this tutorial contains a file called `environment.yml` that includes a list of all the packages used for the tutorial. If you run:
 
