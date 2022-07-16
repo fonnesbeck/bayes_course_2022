@@ -46,7 +46,7 @@ The course comprises four 3-hour modules of videoconference lectures, along with
 - Building hierarchical models
 - Parameterizations
 
-### Wednesday, July 26
+### Tuesday, July 26
 
 **Markov chain Monte Carlo** 09:30 – 13:30 ET / 15:30-19:30 CET
 - Probability density functions, inverse CDF sampling
@@ -55,7 +55,7 @@ The course comprises four 3-hour modules of videoconference lectures, along with
 - Metropolis-Hastings samplers
 - Gibbs samplers
 
-### Friday, July 27
+### Wednesday, July 27
 
 **Gradient-based MCMC** 09:30 – 13:30 ET / 15:30-19:30 CET
 - Problems with first-generation MCMC methods
@@ -66,7 +66,7 @@ The course comprises four 3-hour modules of videoconference lectures, along with
 - Goodness-of-fit checks
 
 
-### Monday, July 28
+### Thursday, July 28
 
 **The Bayesian Workflow** 09:30 – 13:30 ET / 15:30-19:30 CET
 - Prior predictive checks
