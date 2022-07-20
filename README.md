@@ -38,33 +38,35 @@ The course comprises four 3-hour modules of videoconference lectures, along with
 
 ### Monday, July 25
 
-**Bayesian Hierarchical Models** 09:30 – 13:30 ET / 15:30-19:30 CET
+**Introduction to Bayesian Models and PyMC** 09:30 – 13:30 ET / 15:30-19:30 CET
 - The anatomy of a Bayesian model
+- Probability density functions, inverse CDF sampling
+- Bayesian comuptation and approximations
 - The PyMC API
 - Motivation and case studies
-- Partial pooling
-- Building hierarchical models
-- Parameterizations
 
 ### Tuesday, July 26
 
 **Markov chain Monte Carlo** 09:30 – 13:30 ET / 15:30-19:30 CET
-- Probability density functions, inverse CDF sampling
 - Rejection sampling
 - MCMC basics
 - Metropolis-Hastings samplers
 - Gibbs samplers
-
-### Wednesday, July 27
-
-**Gradient-based MCMC** 09:30 – 13:30 ET / 15:30-19:30 CET
 - Problems with first-generation MCMC methods
 - Using gradient information to improve MCMC
 - Hamiltonian Monte Carlo
 - NUTS
+  
+### Wednesday, July 27
+
+**PyMC Model Building and Model Checking** 09:30 – 13:30 ET / 15:30-19:30 CET
+- Model building in PyMC
+- Partial pooling
+- Building hierarchical models
+- Parameterizations
 - Convergence diagnostics
 - Goodness-of-fit checks
-
+- Model comparison
 
 ### Thursday, July 28
 
@@ -72,4 +74,5 @@ The course comprises four 3-hour modules of videoconference lectures, along with
 - Prior predictive checks
 - Iterating models
 - Posterior predictive checks
+- Generative modeling
 - Using the model
