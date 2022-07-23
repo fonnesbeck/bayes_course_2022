@@ -12,6 +12,7 @@ dependencies:
   - jupyterlab
   - lxml
   - matplotlib
+  - numba
   - numpy
   - pandas
   - patsy
